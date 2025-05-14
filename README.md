@@ -12,5 +12,5 @@ This C++ project simulates a smart grid environment with variable power loads, r
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SmartGridSimulator.git
+   git clone https://github.com/Kaucha1999/SmartGridSimulator.git
 
