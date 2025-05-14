@@ -1,0 +1,5 @@
+*.o
+simulator
+logs/event_log.txt
+
+
